@@ -7,7 +7,7 @@
   "containerDefinitions": [
     {
       "name": "among-us-mlops",
-      "image": "ACCOUNT_ID.dkr.ecr.AWS_REGION.amazonaws.com/among-us-mlops:latest",
+      "image": "098285161346.dkr.ecr.us-east-1.amazonaws.com/among-us-mlops:latest",
       "essential": true,
       "portMappings": [
         {
